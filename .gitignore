@@ -1,0 +1,7 @@
+# GitIgnore for Salesforce Projects
+# Project Settings and MetaData
+.project
+.settings/
+.metadata
+build.properties
+config
