@@ -3,7 +3,7 @@ Repo for git training.
 # @adam.polyak@attentioncrm.com
 # in the repository training-git
 
-Edited only by Admin
+Edited only by Admin. Hahaha (Xaxaxa)
 
 ERA - Ameno:
 
@@ -18,5 +18,5 @@ Dori me
 Ameno
 Omenare imperavi ameno
 Dimere, dimere matiro
-mAtIRRReMo
+Matiremo
 Ameno
